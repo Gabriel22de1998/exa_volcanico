@@ -21,6 +21,8 @@ namespace appExamen1Laboratorio
     public partial class Form1 : Form
     {
         private IGestor _Gestor = new Gestor();
+        // ----------------------------------------
+        private string sensor = "Port 10";
 
         public Form1()
         {
