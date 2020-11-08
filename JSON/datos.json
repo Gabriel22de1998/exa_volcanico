@@ -1,0 +1,69 @@
+{
+  "Lista": [
+    {
+      "Nombre": "Juan",
+      "Apellidos": "Morales",
+      "FechaNacimiento": "01/01/1970",
+      "ARN": "1a2b3cd45e9s8e4t6h5j6f54g6sd5g45sf69r2h45d6s6",
+      "Sexo": "h",
+      "PresionAlta": "S",
+      "MatrixProteina": "45,88,1,2,3,4,5,6,7,8,9,10,11,45"
+    },
+    {
+      "Nombre": "Maria",
+      "Apellidos": "Rodriguez",
+      "IsEmbarazada": "S",
+      "FechaNacimiento": "01/01/1980",
+      "ARN": "132456465456897897",
+      "Sexo": "M",
+      "MatrixProteina": "99,1,99,1,1,99,2,1,1,1,-5"
+    },
+    {
+      "Nombre": "Sofia",
+      "Apellidos": "Martinez",
+      "IsEmbarazada": "N",
+      "FechaNacimiento": "01/01/1990",
+      "ARN": "369",
+      "Sexo": "M",
+      "MatrixProteina": "44,55,25,75,66,66"
+    },
+    {
+      "Nombre": "Pedro",
+      "Apellidos": "Gomez",
+      "FechaNacimiento": "01/01/1950",
+      "ARN": "8c1f1046219ddd216a023f792356ddf127fce372a72ec9b4cdac989ee5b0b455",
+      "Sexo": "H",
+      "PresionAlta": "",
+      "MatrixProteina": "99,3,6,5,6,9,7,8"
+    },
+    {
+      "Nombre": "Angelina",
+      "Apellidos": "Jolie",
+      "FechaNacimiento": "01/01/1965",
+      "ARN": "1a2b3cd45e9s8e4t6h5j6f54g6sd5g45sf69r2h45d6s6",
+      "Sexo": "M",
+      "IsEmbarazada": "N",
+      "MatrixProteina": "11,22,33,44,55,66,77,88,99"
+    },
+    {
+      "Nombre": "Jonas",
+      "Apellidos": "Zambrado",
+      "FechaNacimiento": "01/01/1985",
+      "ARN": "e4c649b999719b91be3c6d220d9ab6d35a2efba049d4f2a8a98e51d420f8517f",
+      "Sexo": "H",
+      "PresionAlta": "",
+      "MatrixProteina": "66,77,88,-99,11,22,33,44,55"
+    },
+    {
+      "Nombre": "Fernanda",
+      "Apellidos": "Castell",
+      "IsEmbarazada": "N",
+      "FechaNacimiento": "01/01/1945",
+      "ARN": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
+      "Sexo": "M",
+      "MatrixProteina": "-5,99,1,99,1,1,99,1,1,1,2"
+    }
+
+
+  ]
+} 
